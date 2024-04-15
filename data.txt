@@ -1,0 +1,168 @@
+{
+    "page": 1,
+    "page_size": 1,
+    "items": [
+        {
+            "id": 72638707,
+            "name": "PSSD007.*",
+            "order": 1,
+            "pid": "TC-12974",
+            "created_date": "2022-07-14T09:07:07-05:00",
+            "last_modified_date": "2022-11-07T13:18:21-06:00",
+            "properties": [
+                {
+                    "field_name": "Automation",
+                    "field_id": 12423248
+                },
+                {
+                    "field_name": "Automation Content",
+                    "field_id": 12423249
+                },
+                {
+                    "field_name": "Shared",
+                    "field_id": 12423250
+                },
+                {
+                    "field_name": "Status",
+                    "field_id": 12423251
+                },
+                {
+                    "field_name": "Priority",
+                    "field_id": 12423256
+                },
+                {
+                    "field_name": "Type",
+                    "field_id": 12423252
+                },
+                {
+                    "field_name": "Assigned To",
+                    "field_id": 12423243
+                },
+                {
+                    "field_name": "Description",
+                    "field_id": 12423254
+                },
+                {
+                    "field_name": "Precondition",
+                    "field_id": 12423255
+                },
+                {
+                    "field_name": "Ip",
+                    "field_id": 12694276
+                },
+                {
+                    "field_name": "Sub Ip",
+                    "field_id": 12694277
+                },
+                {
+                    "field_name": "Category",
+                    "field_id": 12694283
+                },
+                {
+                    "field_name": "Test Case Framework",
+                    "field_id": 12694284
+                },
+                {
+                    "field_name": "Pre-Silicon",
+                    "field_id": 12694285
+                },
+                {
+                    "field_name": "System Pools",
+                    "field_id": 12694292
+                },
+                {
+                    "field_name": "Total Variations",
+                    "field_id": 12694293
+                },
+                {
+                    "field_name": "Jira ID",
+                    "field_id": 12951441
+                },
+                {
+                    "field_name": "JAMA ID",
+                    "field_id": 12998053
+                },
+                {
+                    "field_name": "Owner",
+                    "field_id": 13000204
+                },
+                {
+                    "field_name": "Releases",
+                    "field_id": 13039356
+                },
+                {
+                    "field_name": "SLT/SLTQ Test Order",
+                    "field_id": 13189600
+                },
+                {
+                    "field_name": "STF File Block Name",
+                    "field_id": 13190099
+                },
+                {
+                    "field_name": "Planned IP Specific Test Parameters / Command line",
+                    "field_id": 13190100
+                },
+                {
+                    "field_name": "CF File",
+                    "field_id": 13190101
+                },
+                {
+                    "field_name": "STF File",
+                    "field_id": 13190102
+                },
+                {
+                    "field_name": "Production Test Condition",
+                    "field_id": 13190103
+                },
+                {
+                    "field_name": "Test Time Estimate",
+                    "field_id": 13190104
+                },
+                {
+                    "field_name": "Coverage:",
+                    "field_id": 13214452
+                },
+                {
+                    "field_name": "IP team input",
+                    "field_id": 13217288
+                },
+                {
+                    "field_name": "IP commit date",
+                    "field_id": 13217289
+                },
+                {
+                    "field_name": "Release_Suite",
+                    "field_id": 13217291
+                },
+                {
+                    "field_name": "Release_SKU",
+                    "field_id": 13217292
+                },
+                {
+                    "field_name": "Release_Flow",
+                    "field_id": 13217293
+                },
+                {
+                    "field_name": "OL Milestones",
+                    "field_id": 13217332
+                },
+                {
+                    "field_name": "Test Info",
+                    "field_id": 13217338
+                },
+                {
+                    "field_name": "Test Command ID",
+                    "field_id": 13217339
+                },
+                {
+                    "field_name": "% Code Done",
+                    "field_id": 13373196
+                },
+                {
+                    "field_name": "Effort",
+                    "field_id": 13425387
+                }
+            ]
+        }
+    ]
+}
